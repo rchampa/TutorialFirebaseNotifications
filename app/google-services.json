@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83355325849",
+    "firebase_url": "https://tutorialfbnotifications.firebaseio.com",
+    "project_id": "tutorialfbnotifications",
+    "storage_bucket": "tutorialfbnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83355325849:android:187ce18fe92bce7a",
+        "android_client_info": {
+          "package_name": "ric.es.tutorialfbnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83355325849-ame0ksg2t29lvb0r73kennec1imftm3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ric.es.tutorialfbnotifications",
+            "certificate_hash": "F5258A80B0D3DC53DF695B2F0E9753F30F938936"
+          }
+        },
+        {
+          "client_id": "83355325849-5g21ggc526e92qqq6li15fokpq28ck5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7C-gRi4yCHVTlwLWm19QK4BX5cAzodBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83355325849-5g21ggc526e92qqq6li15fokpq28ck5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
